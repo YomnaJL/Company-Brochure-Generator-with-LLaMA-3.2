@@ -20,5 +20,5 @@ This project is a smart brochure generator that scrapes a company's website, ext
 - Python 3.8+
 - [Ollama installed locally](https://ollama.com/download) with LLaMA 3 pulled (`ollama pull llama3`)
 - Python packages:
-``bash
+```bash
   pip install requests beautifulsoup4 ipython
