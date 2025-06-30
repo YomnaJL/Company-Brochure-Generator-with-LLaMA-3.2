@@ -16,6 +16,8 @@ This project is a smart brochure generator that scrapes a company's website, ext
 ---
 
 ![Brochure Demo](Company_Sales_Brochure_Generator1.png)
+![Brochure Demo](Company_Sales_Brochure_Generator2.png)
+
 
 ## 📦 Requirements
 
