@@ -22,3 +22,5 @@ This project is a smart brochure generator that scrapes a company's website, ext
 - Python packages:
 ```bash
   pip install requests beautifulsoup4 ipython
+
+![Brochure Demo](brochure_preview.png)
